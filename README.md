@@ -1,7 +1,19 @@
 ## GoStack Challenges - Level 01
 Project developed during Rocketseat GoStack, Level 1 challenge on reactjs concepts.
 
-<img alt="ecoleta" src="https://repository-images.githubusercontent.com/272850447/8ff57580-b097-11ea-9219-aff9264488e0" />
+<img alt="reactjs-concepts" src="https://repository-images.githubusercontent.com/272850447/8ff57580-b097-11ea-9219-aff9264488e0" />
+
+<p align="center">
+
+  <a href="LICENSE" style="text-decoration: none">
+    <img alt="License" src="https://img.shields.io/github/license/ailtoneric/reactjs-concepts" />
+  </a>
+
+  <a href="#" style="text-decoration: none">
+    <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/ailtoneric/reactjs-concepts" />
+  </a>
+
+</p>
 
 ## :trophy: Technologies
 
